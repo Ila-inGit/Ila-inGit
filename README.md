@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Header](./your-header-image-name.png)
+![Header](./github-header-image.png)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ila-inGit&show_icons=true&count_private=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
