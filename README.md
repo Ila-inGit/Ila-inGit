@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./banner.png)
 
 <h3 align="center">A passionate fullstack developer from Milan, Italy</h3>
 
