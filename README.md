@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ila-inGit&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ilaria765&unique={true|1|on|yes})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ilaria765&count={2})
