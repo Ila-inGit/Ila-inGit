@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ila-inGit&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ila-inGit&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ila-inGit)](https://git.io/streak-stats)
