@@ -21,7 +21,7 @@ Some stats                 |  Streak
 
 
 ###
-<img src="https://raw.githubusercontent.com/Ila-inGit/Ila-inGit/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/Ila-inGit/Ila-inGit/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 
