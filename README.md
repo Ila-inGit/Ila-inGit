@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Weply App](https://www.weply.it/)
 
-- 🌱 I’m currently learning **python and Kubernetes**
+- 🌱 I’m currently learning **Kubernetes and Ansible**
 
 - 📫 How to reach me **ilariacappella6@gmail.com**
 
