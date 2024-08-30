@@ -13,7 +13,7 @@
 
 Some stats                 |  Streak
 :-------------------------:|:-------------------------:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ila-inGit&show_icons=true&count_private=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)  |  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ila-inGit&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ila-inGit&show_icons=true&theme=transparent&show_private=true)](https://github.com/anuraghazra/github-readme-stats)  |  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ila-inGit&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
 |       Trophy                                            | Music I listen to recently             |
 |:-------------------------------------------------------:|----------------------------------------|
