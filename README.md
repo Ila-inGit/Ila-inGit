@@ -21,14 +21,10 @@ Some stats                 |  Streak
 
 
 ###
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
+
+![Snake animation](https://raw.githubusercontent.com/Ila-inGit/Ila-inGit/output/github-contribution-grid-snake-dark.svg)
 
 ###
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
